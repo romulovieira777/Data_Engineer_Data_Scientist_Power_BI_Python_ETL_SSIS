@@ -8,6 +8,7 @@
 - [Section 05 - Power BI - Connecting to Database Data Sources](https://github.com/romulovieira777/Data_Engineer_Data_Scientist_Power_BI_Python_ETL_SSIS/tree/main/Section_05_Power_BI_Connecting_to_Database_Data_Sources)
 - [Section 06 - Power BI - Transforming Data](https://github.com/romulovieira777/Data_Engineer_Data_Scientist_Power_BI_Python_ETL_SSIS/tree/main/Section_06_Power_BI_Transforming_Data)
 - [Section 07 - Power BI - Data Modelling](https://github.com/romulovieira777/Data_Engineer_Data_Scientist_Power_BI_Python_ETL_SSIS/tree/main/Section_07_Power_BI_Data_Modelling)
+- [Section 08 - Microsoft Visual Studio Setup](https://github.com/romulovieira777/Data_Engineer_Data_Scientist_Power_BI_Python_ETL_SSIS/tree/main/Section_08_Microsoft_Visual_Studio_Setup)
 
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineerdata-scientist-power-bi-python-etlssis/)
