@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Data_Engineer", "Data_Engineer.dtproj", "{F616E2A7-606D-4BC2-A943-4A0C70D5F2F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F616E2A7-606D-4BC2-A943-4A0C70D5F2F8}.Development|Default.ActiveCfg = Development
+		{F616E2A7-606D-4BC2-A943-4A0C70D5F2F8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {068E6E39-6642-4610-B34B-DEB8F248B488}
+	EndGlobalSection
+EndGlobal
