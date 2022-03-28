@@ -10,6 +10,7 @@
 - [Section 07 - Power BI - Data Modelling](https://github.com/romulovieira777/Data_Engineer_Data_Scientist_Power_BI_Python_ETL_SSIS/tree/main/Section_07_Power_BI_Data_Modelling)
 - [Section 08 - Microsoft Visual Studio Setup](https://github.com/romulovieira777/Data_Engineer_Data_Scientist_Power_BI_Python_ETL_SSIS/tree/main/Section_08_Microsoft_Visual_Studio_Setup)
 - [Section 09 - Implementing ETL Using SSIS](https://github.com/romulovieira777/Data_Engineer_Data_Scientist_Power_BI_Python_ETL_SSIS/tree/main/Section_09_Implementing_ETL_Using_SSIS)
+- [Section 10 - Data Science Python Setup](https://github.com/romulovieira777/Data_Engineer_Data_Scientist_Power_BI_Python_ETL_SSIS/tree/main/Section_10_Data_Science_Python_Setup)
 
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineerdata-scientist-power-bi-python-etlssis/)
